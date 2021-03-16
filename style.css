@@ -1,0 +1,46 @@
+*{
+    font-size: normal;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+#wrapper{
+    width: 330px;
+    height: 340px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+.button{
+    width: 75px;
+    height: 50px;
+    background-color:rgba(255, 255, 255, 0.527);
+    font-size: 2em;
+    margin: 1px;
+    font-weight: bold;
+    cursor: pointer;
+     border: none;
+}
+
+.button:hover{
+    opacity: 0.5;
+    }
+
+
+
+.textview{
+    width: 305px;
+    margin: 5px;
+    font-size: 2em;
+    color: white;
+    padding: 5px;
+    border: none;
+    background-color: rgba(179, 235, 245, 0.219)
+}
+
